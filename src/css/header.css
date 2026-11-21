@@ -1,1 +1,7 @@
-/* Сюди додавай стилі частинки Header */
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 288.5px;
+}
